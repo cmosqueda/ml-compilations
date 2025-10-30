@@ -1,3 +1,6 @@
 # ignore virtual environment directories
 venv/
 .venv/
+
+# ignore text-mining items
+text-mining/
