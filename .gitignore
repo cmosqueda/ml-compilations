@@ -2,5 +2,4 @@
 venv/
 .venv/
 
-# ignore text-mining items
 text-mining/
